@@ -1,0 +1,7 @@
+saved_model/
+.idea/
+.venv/
+__pycache__/
+node_modules/
+processed/
+raw/
