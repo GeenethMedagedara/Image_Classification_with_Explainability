@@ -1,8 +1,10 @@
 # Image Classification with Explainability
 
-This project is about classifying images and also this enhances model interpretability by generating **Grad-CAM and Integrated Gradients visualizations** for image classification models. It helps users understand *why* a model makes certain predictions—making AI more transparent and trustworthy.
+![Screenshot 2025-03-17 123740](https://github.com/user-attachments/assets/f09607dc-6d4e-4963-95bb-223d87942820)
 
 ---
+
+This project is about classifying images and also this enhances model interpretability by generating **Grad-CAM and Integrated Gradients visualizations** for image classification models. It helps users understand *why* a model makes certain predictions—making AI more transparent and trustworthy.
 
 ## Features
 
@@ -44,7 +46,7 @@ mlflow ui
 
 Run the two notebooks data_exploration.ipynb and model_training.ipynb respectively 
 
-img
+![Screenshot 2025-03-17 105437](https://github.com/user-attachments/assets/d2fc06eb-6a32-4e96-92b1-05f34004b011)
 
 4. Run the App
 ```
@@ -72,10 +74,14 @@ http://localhost:8080
     <th>Integrated Gradients</th>
   </tr>
   <tr>
-    <td><img src="docs/original_image.jpg" width="200"></td>
-    <td><img src="docs/gradcam.jpg" width="200"></td>
-    <td><img src="docs/original_superimposed_image.jpg" width="200"></td>
-    <td><img src="docs/integrated_gradients.jpg" width="200"></td>
+    <td><img src="![United_Airlines_Boeing_777-200_Meulemans](https://github.com/user-attachments/assets/7ff969df-baea-4a95-8f8b-f0c9cf5fb9f5)
+" width="200"></td>
+    <td><img src="![output2](https://github.com/user-attachments/assets/6c5b268e-77b4-4cee-a9f8-e2384e2126e8)
+" width="200"></td>
+    <td><img src="![output](https://github.com/user-attachments/assets/18c6de0d-c842-4d9c-ba11-f100d4bff5d9)
+" width="200"></td>
+    <td><img src="![output](https://github.com/user-attachments/assets/d63236e7-e08d-4766-a259-bb96142f67b7)
+" width="200"></td>
   </tr>
 </table>
 
