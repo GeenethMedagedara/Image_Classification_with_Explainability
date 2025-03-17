@@ -75,7 +75,7 @@ http://localhost:8080
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/7ff969df-baea-4a95-8f8b-f0c9cf5fb9f5
-" width="200"></td>
+" width="300" height="200"></td>
     <td><img src="![output2](https://github.com/user-attachments/assets/6c5b268e-77b4-4cee-a9f8-e2384e2126e8)
 " width="200"></td>
     <td><img src="![output](https://github.com/user-attachments/assets/18c6de0d-c842-4d9c-ba11-f100d4bff5d9)
