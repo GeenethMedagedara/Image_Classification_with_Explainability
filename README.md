@@ -6,6 +6,15 @@
 
 This project is about classifying images and also this enhances model interpretability by generating **Grad-CAM and Integrated Gradients visualizations** for image classification models. It helps users understand *why* a model makes certain predictions—making AI more transparent and trustworthy.
 
+## Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Model Explainability in Action](#model-explainability-in-action)
+- [How This Works](#how-this-works)
+- [Why Built](#why-this-is-built)
+
 ## Features
 
 - **AI Explainability:** Uses Grad-CAM & Integrated Gradients to highlight key regions.
@@ -97,10 +106,9 @@ The CNN compares predictions with the actual labels using a loss function (e.g.,
 Backpropagation adjusts filter weights using Gradient Descent (e.g., Adam, SGD) to minimize errors over time.
 
 The Grad-Cam works by computing gradients of the predicted class score(final layer) **w.r.t** the feature maps of the last convolutional layer.
+
 ## Why This is Built
 
 I built this project to get an understanding of Convolutional Neural Network architecture, model building, and how these models perform predictions. This gives me a basic understanding of computer vision and explainable AI.
-
-## Screenshots
 
 
