@@ -74,7 +74,7 @@ http://localhost:8080
     <th>Integrated Gradients</th>
   </tr>
   <tr>
-    <td><img src="![United_Airlines_Boeing_777-200_Meulemans](https://github.com/user-attachments/assets/7ff969df-baea-4a95-8f8b-f0c9cf5fb9f5)
+    <td><img src="https://github.com/user-attachments/assets/7ff969df-baea-4a95-8f8b-f0c9cf5fb9f5
 " width="200"></td>
     <td><img src="![output2](https://github.com/user-attachments/assets/6c5b268e-77b4-4cee-a9f8-e2384e2126e8)
 " width="200"></td>
