@@ -1,3 +1,8 @@
+"""
+Handles model loading and prediction.
+"""
+
+
 import tensorflow as tf
 from tensorflow.keras.layers import (Input, Conv2D, BatchNormalization, MaxPooling2D, 
                                      Dropout, Flatten, Dense, RandomFlip, RandomRotation)

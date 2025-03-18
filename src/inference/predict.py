@@ -1,3 +1,7 @@
+"""
+Handles prediction strategies for image classification models.
+"""
+
 import cv2
 import numpy as np
 import tensorflow as tf

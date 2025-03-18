@@ -1,3 +1,7 @@
+"""
+Handles training strategies for image classification models.
+"""
+
 import os
 import mlflow
 import mlflow.keras

@@ -1,3 +1,7 @@
+"""
+Handles the context class for explainability.
+"""
+
 from src.models.explainability import ExplainabilityStrategy  # Import the base class
 
 class ExplainabilityContext:

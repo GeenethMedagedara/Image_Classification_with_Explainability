@@ -1,3 +1,7 @@
+"""
+Handles evaluation strategies for image classification models.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
